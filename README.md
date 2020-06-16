@@ -1,4 +1,4 @@
-#はじめてのGitHub
+# はじめてのGitHub
   hamakawaryunosuke 濱川龍之介  
 https://github.com/hamakawaryunosuke/Sample.git  
 
@@ -6,6 +6,6 @@ https://github.com/hamakawaryunosuke/Sample.git
 *お好み焼きレシピ  
 　　　[okonomi.txt](okonomi.txt)  
 
-##リモートリポジトリ  
+##リモートリポジトリ 
 *README.mdを作ってみる  
 *マークダウンを覚える  
